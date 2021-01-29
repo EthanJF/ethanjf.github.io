@@ -98,15 +98,15 @@ body {
     padding-right: 10%;
 }
 
-.weheartdogs-picture{
+.weheartdogs-picture, .okfriend-picture{
     width: 43vw;
-    border: 4px solid #463333;
+    border: 2px solid #463333;
 }
 
-.okfriend-picture{
+/* .okfriend-picture{
     width: 43vw;
-    border: 4px solid #463333;
-}
+    border: 2px solid #463333;
+} */
 
 .portfolio-div {
     padding-top: 8%;
@@ -119,4 +119,11 @@ body {
     /* text-decoration: none; */
     color: #463333;
 
+}
+
+.resume-div {
+    width: 60%;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
 }
