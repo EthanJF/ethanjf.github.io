@@ -20,6 +20,9 @@ body {
   .main-content {
     flex-direction: column;
   }
+  .profile-photo {
+    height: 100vw !important;
+  }
 }
 
 .about-text {
